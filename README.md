@@ -1,2 +1,2 @@
 # HGR-AI
-Artificial Intelligence project
+Hand gesture recognition project using own implementation of convolutional neural networks in python
